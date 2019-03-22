@@ -39,13 +39,13 @@ Module 1: Intro to Data Analysis in R
     - plot()
         - customizing
     - Scatter Plot
-    - Linear Regression (details later)
+    - Regression Line (details later)
     - Barplot
     - Histograms
     - Boxplots and better versions thereof
 
-Module 2: Intro to Data Analysis in R
--------------------------------------
+Module 2: Intro to Probability and Inference
+--------------------------------------------
 - Lecture 1: Probability
     - Discrete Random Variables
     - Continuous Random Variables
