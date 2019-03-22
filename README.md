@@ -11,6 +11,7 @@ Curriculum
 
 References
 ==========
+- https://www.huber.embl.de/msmb/
 - https://datasciencelabs.github.io/pages/lectures.html
 - https://towardsdatascience.com/a-guide-to-data-visualisation-in-r-for-beginners-ef6d41a34174
 
