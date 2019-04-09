@@ -82,3 +82,7 @@ Module 3: Regression
     - lm
     - Interpretation with Examples
 - Lecture 4: Generalized Linear Models 
+
+Module 4: Clustering
+--------------------------------------
+Lecture N: Batch effects
