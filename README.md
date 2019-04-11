@@ -162,13 +162,13 @@ Module 4: Models for count data such as high throughput-sequencing
 
 Module 5: Clustering
 --------------------------------------
-Lecture 1: Intro
+- Lecture 1: Intro
     - Why do we cluster data?
     - Measuring similarity
     - k-means clustering
-Lecture 2: Clustering examples with flow cytometry data
+- Lecture 2: Clustering examples with flow cytometry data
     - Data preprocessing
     - Density-based clustering
-Lecture 3: Hierarchical clustering
-Lecture 4: Validating and choosing the number of clusters
-Lecture 5: Detecting Batch effects
+- Lecture 3: Hierarchical clustering
+- Lecture 4: Validating and choosing the number of clusters
+- Lecture 5: Detecting Batch effects
