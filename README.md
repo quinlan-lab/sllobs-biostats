@@ -4,7 +4,7 @@
 
 Overview
 ========
-The goal of the ***Salt Lake Lovers of Biostats (SLLOBS)*** is to convene folks at all leves that are interested in learning (and teaching) 
+The goal of the ***Salt Lake Lovers of Biostats (SLLOBS)*** is to convene folks at all levels that are interested in learning (and teaching) 
 basic concepts in data analysis and statistics for biological research. We will meet ???weekly (bi-weekly?)??? for one hour. 
 
 One or more people will work together to learn and present a topic each week. ***The goal of each lecture is to***:
@@ -161,7 +161,7 @@ Module 5: Clustering
 --------------------------------------
 Lecture 1: Intro
     - Why do we cluster data?
-    - Measureing similarity
+    - Measuring similarity
     - k-means clustering
 Lecture 2: Clustering examples with flow cytometry data
     - Data preprocessing
