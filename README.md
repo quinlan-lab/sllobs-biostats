@@ -109,6 +109,8 @@ Module 2: Intro to Probability and Inference
 
 Module 3: Regression
 -------------------------------------
+- References: 
+    - http://blog.yhat.com/posts/r-lm-summary.html
 - Lecture 1: Motivation
     - Examples
     - Complexity
