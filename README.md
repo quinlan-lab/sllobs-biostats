@@ -59,7 +59,6 @@ Module 1: Intro to Data Analysis in R
     - Gentle intro to R programming
     - Installing packages
     - Data types
-    - Descriptive Statistics
 - Lecture 3: Basics of R (II)
     - Basic Data Wrangling
     - Importing Data
@@ -84,7 +83,13 @@ Module 2: Intro to Probability and Inference
 	- Poisson distributions
     - Continuous Random Variables
     - Descriptive Statistics
+        - expected value
+	- mean
+	- median
+	- mode
     - Basic Simulations
+    	- coin toss
+	- importance of sample size
 - Lecture 2: Inference (I)
     - Random variable probability distributions
     - Expected Values
@@ -119,6 +124,9 @@ Module 3: Regression
     - Stratification
 - Lecture 3: Linear Models
     - lm
+    - interpretation of coefficients and p-values
+    - impact and handling of outliers
+    - confidence intervals
     - Interpretation with Examples
 - Lecture 4: Generalized Linear Models
     - Why?
