@@ -149,7 +149,14 @@ Module 3: Regression
 	 - ANCOVA
 - Lecture 9: Goodness of fit tests
 
-Module 4: Models for count data such as high throughput-sequencing
+Module 4: Advanced Plotting
+---------------------------
+- Lecture 1: ggplot
+- Lecture 2: 1D data plots: barplots, boxplots, violin plots, beewswarm plots, density plots
+- Lecture 3: 2D data plots: Scatterplots, hexbin
+- Lecture 4: more than two dimensions: faceting, interactive graphics, color
+
+Module 5: Models for count data such as high throughput-sequencing
 -------------------------------------------------------------------
 - Lecture 1: Intro
     - Challenges of count data
@@ -167,8 +174,14 @@ Module 4: Models for count data such as high throughput-sequencing
 - Lecture 4: Misc
     - Outliers
     - Count data transformations
+    
+Module 6: Mixture Models
+------------------------
+- Lecture 1: Biological data is often multi-modal. How do we handle this?
+    - generate mixtures of normal distributions
+- Lecture 2: Expectation Maximization (EM) for reverse engineering the mixtures
 
-Module 5: Clustering
+Module 7: Clustering
 --------------------------------------
 - Lecture 1: Intro
     - Why do we cluster data?
@@ -180,3 +193,35 @@ Module 5: Clustering
 - Lecture 3: Hierarchical clustering
 - Lecture 4: Validating and choosing the number of clusters
 - Lecture 5: Detecting Batch effects
+
+Module 8: Testing
+---------------------------------------
+- Lecture 1: Hypothesis testing
+    - types of error
+    - revisiting the t-test
+    - permutation tests
+- Lecture 2: P-value hacking
+- Lecture 3: Multiple testing
+    - Theory, Implications
+    - Bonferonni correction
+- Lecture 4: False discovery rate (FDR)
+    - P-value histogram
+    - Benjamini-Hochberg algorithm for limiting FDR
+    - Local FDR
+- Lecture 5: Other tests?
+
+Module 9: Distributions
+---------------------------------------
+- Lecture 1: Different distributions
+- Lecture 2: Fitting data to distributions, Q-Q plot
+
+Module 10: Dimensionality Reduction (in progress)
+------------------------------------------------
+- Dimension reduction
+- PCA
+
+Module 11: Special Topics (in progress)
+------------------------------------------
+- Sampling
+- Bootstrapping
+- 
