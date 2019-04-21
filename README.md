@@ -5,7 +5,7 @@
 Overview
 ========
 The goal of the ***Salt Lake Lovers of Biostats (SLLOBS)*** is to convene folks at all levels that are interested in learning (and teaching) 
-basic concepts in data analysis and statistics for biological research. We will meet ???weekly (bi-weekly?)??? for one hour. 
+basic concepts in data analysis and statistics for biological research. We will meet bi-weekly on Monday mornings at 9AM for one hour. 
 
 One or more people will work together to learn and present a topic each week. ***The goal of each lecture is to***:
 
