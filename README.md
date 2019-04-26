@@ -30,13 +30,6 @@ Expectations
 If members follow these expectations, we will have a large corpus of teaching and learning material that will be 
 available to refer back to. Furthermore, ***it will be the basis for a formal course in the future***.
 
-Open Questions
-==============
-1. ***WHERE (EIHG auditorium?)***
-2. ***WHEN (I propose Monday mornings)***
-3. ***FREQUENCY (I propose weekly or biweekly)***
-4. ***Can we get departmental support for coffee, bagels, etc.?***
-
 References (incomplete)
 =======================
 - https://lindeloev.github.io/tests-as-linear/
