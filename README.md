@@ -38,6 +38,7 @@ Grab bag
 
 References (incomplete)
 =======================
+- [RStudio Primers](https://rstudio.cloud/learn/primers)
 - https://lindeloev.github.io/tests-as-linear/
 - https://www.huber.embl.de/msmb/
 - https://datasciencelabs.github.io/pages/lectures.html
