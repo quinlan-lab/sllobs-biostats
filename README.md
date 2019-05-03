@@ -30,10 +30,11 @@ Expectations
 If members follow these expectations, we will have a large corpus of teaching and learning material that will be 
 available to refer back to. Furthermore, ***it will be the basis for a formal course in the future***.
 
-TODO
-====
+Grab bag
+========
 - survival curves
-
+- MA plots:
+    - https://twitter.com/Noncodarnia/status/1124099713291169800
 
 References (incomplete)
 =======================
