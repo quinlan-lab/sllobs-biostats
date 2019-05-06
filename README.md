@@ -33,6 +33,7 @@ available to refer back to. Furthermore, ***it will be the basis for a formal co
 Grab bag
 ========
 - survival curves
+- Monte Carlo simulations
 - MA plots:
     - https://twitter.com/Noncodarnia/status/1124099713291169800
 
