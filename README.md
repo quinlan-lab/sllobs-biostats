@@ -44,6 +44,7 @@ References (incomplete)
 - https://www.huber.embl.de/msmb/
 - https://datasciencelabs.github.io/pages/lectures.html
 - https://towardsdatascience.com/a-guide-to-data-visualisation-in-r-for-beginners-ef6d41a34174
+- https://www.datasciencecentral.com/profiles/blogs/3-types-of-regression-in-one-picture-baba-png
 
 Curriculum
 ==========
