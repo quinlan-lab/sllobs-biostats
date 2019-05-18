@@ -52,7 +52,10 @@ Module 1: Intro to Data Analysis in R
 -------------------------------------
 - Lecture 1: Goals of the group, Intro to R and RStudio
     - Goals and Motivation
+    - Meeting frequency
     - Expectations
+    - sharing material
+    - sharing knowledge
     - What is R?
     - Why R?
     - Installing RStudio
