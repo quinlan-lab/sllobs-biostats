@@ -56,6 +56,11 @@ Module 1: Intro to Data Analysis in R
     - What is R?
     - Why R?
     - Installing RStudio
+    - RStudio
+    - Calculator
+    - Lists
+    - Quick plots
+    - built-in datasets
 - Lecture 2: Basics of R (I)
     - Motivation
     - Gentle intro to R programming
