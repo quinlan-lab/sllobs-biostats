@@ -6,6 +6,9 @@ Past Lectures
 =============
 - [Lecture 1: Module 1: Intro to Data Analysis in RStudio](https://docs.google.com/presentation/d/1KAwoHV03d4eZ6StXmT-ihvZDCzuiXVUaH6C9SOySjhA/edit?usp=sharing)
 
+Slack Group
+=============
+Join the SLLOBS slack group [here](https://join.slack.com/t/saltlakelearn-7qx8407/shared_invite/enQtNjM0NTE3NDU1MDI1LWY1NzE0YWMxYWQ0Nzg0NmY1ZTk2OTgxY2ZkYzY0YzFlMGY0ZDg4Yjk0NGVhYzhjZmY3MmU0ZGRlNjc3OGZhMTI): 
 
 Overview
 ========
