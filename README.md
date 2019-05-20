@@ -75,8 +75,8 @@ Module 1: Intro to Data Analysis in R
     - Vectorization
     - Data types
     - Built-in datasets
-    - Basic Plots
     - Importing Data
+    	- broken data
 - Lecture 3: Basics of R (II)
     - Installing packages
     - Basic Data Wrangling
