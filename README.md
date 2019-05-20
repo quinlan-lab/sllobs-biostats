@@ -50,7 +50,7 @@ Curriculum
 ==========
 Module 1: Intro to Data Analysis in R
 -------------------------------------
-- Lecture 1: Goals of the group, Intro to R and RStudio
+- [Lecture 1: Goals of the group, Intro to R and RStudio](https://docs.google.com/presentation/d/1KAwoHV03d4eZ6StXmT-ihvZDCzuiXVUaH6C9SOySjhA/edit?usp=sharing)
     - Goals and Motivation
     - Meeting frequency
     - Expectations
