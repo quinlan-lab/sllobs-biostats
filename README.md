@@ -62,19 +62,18 @@ Module 1: Intro to Data Analysis in R
     - RStudio
     - Calculator
     - Lists
-    - Quick plots
-    - built-in datasets
 - Lecture 2: Basics of R (I)
-    - Motivation
-    - Gentle intro to R programming
-    - Installing packages
+    - Vectorization
     - Data types
-- Lecture 3: Basics of R (II)
-    - Basic Data Wrangling
-    - Importing Data
+    - Built-in datasets
     - Basic Plots
-    - Basic Programming
-- Lecture 4: Basic Plots
+    - Importing Data
+    - RMarkdown
+- Lecture 3: Basics of R (II)
+    - Installing packages
+    - Basic Data Wrangling
+    - tidyverse
+- Lecture 4: Intro to plotting and data visualization
 	- Why
     - plot()
         - customizing
