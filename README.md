@@ -55,7 +55,7 @@ Curriculum
 ==========
 Module 1: Intro to Data Analysis in R
 -------------------------------------
-- [Lecture 1: Goals of the group, Intro to R and RStudio]
+- Lecture 1: Goals of the group, Intro to R and RStudio
     - Goals and Motivation
     - Meeting frequency
     - Expectations
@@ -68,12 +68,12 @@ Module 1: Intro to Data Analysis in R
     - Calculator
     - Lists
 - Lecture 2: Basics of R (I)
+    - RMarkdown
     - Vectorization
     - Data types
     - Built-in datasets
     - Basic Plots
     - Importing Data
-    - RMarkdown
 - Lecture 3: Basics of R (II)
     - Installing packages
     - Basic Data Wrangling
