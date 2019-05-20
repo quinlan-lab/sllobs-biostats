@@ -127,6 +127,7 @@ Module 3: Regression
     - Basic correlation
     - Least Squares
 - Lecture 2: Intro to Regression
+    - Galton: Regression toward the mean
     - Correlation
     	- Pearson
     	- Spearman
