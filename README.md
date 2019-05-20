@@ -2,6 +2,11 @@
 
 ![img](https://i0.wp.com/nextgenseek.com/wp-content/uploads/2014/02/Genes-Reflect-Geography.jpg)
 
+Past Lectures
+=============
+- [Lecture 1: Module 1: Intro to Data Analysis in RStudio](https://docs.google.com/presentation/d/1KAwoHV03d4eZ6StXmT-ihvZDCzuiXVUaH6C9SOySjhA/edit?usp=sharing)
+
+
 Overview
 ========
 The goal of the ***Salt Lake Learners of Biostats (SLLOBS)*** is to convene folks at all levels that are interested in learning (and teaching) 
