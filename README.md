@@ -2,9 +2,12 @@
 
 ![img](https://i0.wp.com/nextgenseek.com/wp-content/uploads/2014/02/Genes-Reflect-Geography.jpg)
 
-Past Lectures
-=============
-- [Lecture 1: Module 1: Intro to Data Analysis in RStudio](https://docs.google.com/presentation/d/1KAwoHV03d4eZ6StXmT-ihvZDCzuiXVUaH6C9SOySjhA/edit?usp=sharing)
+Lectures/Slides
+===============
+- [Lecture 1 (Aaron Quinlan, May 20, 2019): Module 1: Intro to Data Analysis in RStudio](https://docs.google.com/presentation/d/1KAwoHV03d4eZ6StXmT-ihvZDCzuiXVUaH6C9SOySjhA/edit?usp=sharing)
+- [Lecture 2 (Aaron Quinlan, June 3, 2019): Module 1: RMarkDown and Importing Data]()
+- [Lecture 3 (TBD, June 17, 2019): Module 1: R Packages, Data Types, Functions]()
+- [Lecture 4 (Tom Sasani, July 1, 2019): Module 1: Plotting in R: types of plots and their purpose]()
 
 Slack Group
 =============
