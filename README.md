@@ -2,6 +2,11 @@
 
 ![img](https://i0.wp.com/nextgenseek.com/wp-content/uploads/2014/02/Genes-Reflect-Geography.jpg)
 
+Location
+===============
+HSEB 1730, 9AM on Mondays, Dates Below
+
+
 Lectures/Slides
 ===============
 Module 1
