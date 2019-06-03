@@ -16,6 +16,7 @@ Module 1
 - [Lecture 3 (TBD, June 17, 2019): R Packages, Data Types, Functions]()
 - [Lecture 4 (Tom Sasani, July 1, 2019): Plotting in R: types of plots and their purpose]()
 - [Lecture 5 (Charlie Murtaugh, July 8, 2019): Data Wrangling with "tidyverse"]()
+- [Lecture 6 (Aaron Quinlan, July 22, 2019): RMarkDown and Intro to Probability]()
 
 Slack Group
 =============
