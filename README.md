@@ -12,7 +12,7 @@ Lectures/Slides
 Module 1
 --------
 - [Lecture 1 (Aaron Quinlan, May 20, 2019): Intro to Data Analysis in RStudio](https://docs.google.com/presentation/d/1KAwoHV03d4eZ6StXmT-ihvZDCzuiXVUaH6C9SOySjhA/edit?usp=sharing)
-- [Lecture 2 (Aaron Quinlan, June 3, 2019): RMarkDown and Importing Data]()
+- [Lecture 2 (Aaron Quinlan, June 3, 2019): RMarkDown and Importing Data](https://docs.google.com/presentation/d/12Fq7OaLR7sdfQ4DvS5qEUcQiWteEtc87JNgHJPRtv88/edit#slide=id.p)
 - [Lecture 3 (TBD, June 17, 2019): R Packages, Data Types, Functions]()
 - [Lecture 4 (Tom Sasani, July 1, 2019): Plotting in R: types of plots and their purpose]()
 - [Lecture 5 (Charlie Murtaugh, July 8, 2019): Data Wrangling with "tidyverse"]()
