@@ -13,10 +13,11 @@ Module 1
 --------
 - [Lecture 1 (Aaron Quinlan, May 20, 2019): Intro to Data Analysis in RStudio](https://docs.google.com/presentation/d/1KAwoHV03d4eZ6StXmT-ihvZDCzuiXVUaH6C9SOySjhA/edit?usp=sharing)
 - [Lecture 2 (Aaron Quinlan, June 3, 2019): Data frames and Importing Data](https://docs.google.com/presentation/d/12Fq7OaLR7sdfQ4DvS5qEUcQiWteEtc87JNgHJPRtv88/edit?usp=sharing)
-- [Lecture 3 (TBD, June 17, 2019): R Packages, Data Types, Functions]()
-- [Lecture 4 (Tom Sasani, July 1, 2019): Plotting in R: types of plots and their purpose]()
-- [Lecture 5 (Charlie Murtaugh, July 8, 2019): Data Wrangling with "tidyverse"]()
-- [Lecture 6 (Aaron Quinlan, July 22, 2019): RMarkDown and Intro to Probability]()
+- [Lecture 3 (More with data frames for very basic RNA-seq analysis, Intro to RMarkDown](https://docs.google.com/presentation/d/1-AMIHxuEuU1JJ_RkActGi5F8bv_R9EWBWWas2eh6AuY/edit?usp=sharing)
+- [Lecture 4 (Javier Hernandez, June 17, 2019): R Packages, Data Types, Functions]()
+- [Lecture 5 (Tom Sasani, July 1, 2019): Plotting in R: types of plots and their purpose]()
+- [Lecture 6 (Charlie Murtaugh, July 8, 2019): Data Wrangling with "tidyverse"]()
+- [Lecture 7 (Aaron Quinlan, July 22, 2019): RMarkDown and Intro to Probability]()
 
 Slack Group
 =============
