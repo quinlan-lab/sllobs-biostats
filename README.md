@@ -1,6 +1,7 @@
 # sllobs-biostats
 
 ![img](https://i0.wp.com/nextgenseek.com/wp-content/uploads/2014/02/Genes-Reflect-Geography.jpg)
+Novembre et al, 2008
 
 Location
 ===============
@@ -11,12 +12,19 @@ Lectures/Slides
 ===============
 Module 1
 --------
-- [Lecture 1 (Aaron Quinlan, May 20, 2019): Intro to Data Analysis in RStudio](https://docs.google.com/presentation/d/1KAwoHV03d4eZ6StXmT-ihvZDCzuiXVUaH6C9SOySjhA/edit?usp=sharing)
-- [Lecture 2 (Aaron Quinlan, June 3, 2019): Data frames and Importing Data](https://docs.google.com/presentation/d/12Fq7OaLR7sdfQ4DvS5qEUcQiWteEtc87JNgHJPRtv88/edit?usp=sharing)
-- [Lecture 3 (TBD, June 17, 2019): R Packages, Data Types, Functions]()
-- [Lecture 4 (Tom Sasani, July 1, 2019): Plotting in R: types of plots and their purpose]()
-- [Lecture 5 (Charlie Murtaugh, July 8, 2019): Data Wrangling with "tidyverse"]()
-- [Lecture 6 (Aaron Quinlan, July 22, 2019): RMarkDown and Intro to Probability]()
+- Lecture 1 (Aaron Quinlan, May 20, 2019): Intro to Data Analysis in RStudio
+    - [slides](https://docs.google.com/presentation/d/1KAwoHV03d4eZ6StXmT-ihvZDCzuiXVUaH6C9SOySjhA/edit?usp=sharing)
+- Lecture 2 (Aaron Quinlan, June 3, 2019): Data frames and Importing Data
+    - [slides](https://docs.google.com/presentation/d/12Fq7OaLR7sdfQ4DvS5qEUcQiWteEtc87JNgHJPRtv88/edit?usp=sharing)
+    - Inspired in part by: https://4va.github.io/biodatasci/r-rnaseq-airway.html
+- Lecture 3 (Aaron Quinlan, June 10, 2019): More with data frames, precision v. accuracy, very basic RNA-seq analysis
+    - Inspired in part by: https://4va.github.io/biodatasci/r-rnaseq-airway.html
+    - [slides](https://docs.google.com/presentation/d/1-AMIHxuEuU1JJ_RkActGi5F8bv_R9EWBWWas2eh6AuY/edit?usp=sharing)
+    - [video](https://www.youtube.com/watch?v=qdzEEPhlR6A)
+- [Lecture 4 (Javier Hernandez, June 17, 2019): R Packages, Data Types, Functions]()
+- [Lecture 5 (Tom Sasani, July 1, 2019): Plotting in R: types of plots and their purpose]()
+- [Lecture 6 (Charlie Murtaugh, July 8, 2019): Data Wrangling with "tidyverse"]()
+- [Lecture 7 (Aaron Quinlan, July 22, 2019): RMarkDown and Intro to Probability]()
 
 Slack Group
 =============
@@ -50,7 +58,7 @@ Expectations
 If members follow these expectations, we will have a large corpus of teaching and learning material that will be 
 available to refer back to. Furthermore, ***it will be the basis for a formal course in the future***.
 
-Grab bag of things to discuss
+Grab bag of things to discuss in the future
 ========
 - survival curves
 - Monte Carlo simulations
