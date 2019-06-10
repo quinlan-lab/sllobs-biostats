@@ -16,8 +16,10 @@ Module 1
     - [slides](https://docs.google.com/presentation/d/1KAwoHV03d4eZ6StXmT-ihvZDCzuiXVUaH6C9SOySjhA/edit?usp=sharing)
 - Lecture 2 (Aaron Quinlan, June 3, 2019): Data frames and Importing Data
     - [slides](https://docs.google.com/presentation/d/12Fq7OaLR7sdfQ4DvS5qEUcQiWteEtc87JNgHJPRtv88/edit?usp=sharing)
+    - Inspired in part by: https://4va.github.io/biodatasci/r-rnaseq-airway.html
 - Lecture 3 (Aaron Quinlan, June 10, 2019): More with data frames, precision v. accuracy, very basic RNA-seq analysis
     - [slides](https://docs.google.com/presentation/d/1-AMIHxuEuU1JJ_RkActGi5F8bv_R9EWBWWas2eh6AuY/edit?usp=sharing)
+    - Inspired in part by: https://4va.github.io/biodatasci/r-rnaseq-airway.html
     - [video](https://www.youtube.com/watch?v=qdzEEPhlR6A)
 - [Lecture 4 (Javier Hernandez, June 17, 2019): R Packages, Data Types, Functions]()
 - [Lecture 5 (Tom Sasani, July 1, 2019): Plotting in R: types of plots and their purpose]()
