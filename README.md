@@ -1,6 +1,7 @@
 # sllobs-biostats
 
 ![img](https://i0.wp.com/nextgenseek.com/wp-content/uploads/2014/02/Genes-Reflect-Geography.jpg)
+Novembre et al, 2008
 
 Location
 ===============
@@ -55,7 +56,7 @@ Expectations
 If members follow these expectations, we will have a large corpus of teaching and learning material that will be 
 available to refer back to. Furthermore, ***it will be the basis for a formal course in the future***.
 
-Grab bag of things to discuss
+Grab bag of things to discuss in the future
 ========
 - survival curves
 - Monte Carlo simulations
