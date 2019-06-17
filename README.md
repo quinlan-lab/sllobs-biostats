@@ -141,7 +141,8 @@ Module 2: Intro to Probability and Inference
     - Estimates
     - Central Limit Theorem
     - Confidence Intervals
-- Lecture 5: Inference (III)
+- Lecture 5: t-tests, p-values, multiple testing, q-values???
+- Lecture 6: Inference (III)
     - Developing Models
     - Intro to Bayesian Inference
     - Bayesian Thinking
