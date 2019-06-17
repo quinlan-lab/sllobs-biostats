@@ -22,6 +22,7 @@ Module 1
     - [slides](https://docs.google.com/presentation/d/1-AMIHxuEuU1JJ_RkActGi5F8bv_R9EWBWWas2eh6AuY/edit?usp=sharing)
     - [video](https://www.youtube.com/watch?v=qdzEEPhlR6A)
 - [Lecture 4 (Javier Hernandez, June 17, 2019): R Packages, Data Types, Functions]()
+    - [slides](https://docs.google.com/presentation/d/1Kc3BtOUgxcRLvhzFXh2H5qp5sDGhP9x-AHgAe01pkvg/edit?usp=sharing)
 - [Lecture 5 (Tom Sasani, July 1, 2019): Plotting in R: types of plots and their purpose]()
 - [Lecture 6 (Charlie Murtaugh, July 8, 2019): Data Wrangling with "tidyverse"]()
 - [Lecture 7 (Aaron Quinlan, July 22, 2019): RMarkDown and Intro to Probability]()
