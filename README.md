@@ -25,7 +25,7 @@ Module 1
     - [slides](https://docs.google.com/presentation/d/1Kc3BtOUgxcRLvhzFXh2H5qp5sDGhP9x-AHgAe01pkvg/edit?usp=sharing)
     - [code](code/package-functions-vectorization.R)
 - Lecture 5 (Tom Sasani, July 1, 2019): Plotting in R: types of plots and their purpose
-    - [slides](https://docs.google.com/presentation/d/1T2KTEdk1h18oxic728BqI4UvW6P0OZyvP7VUZKXsM8E/edit#slide=id.p)
+    - [slides](https://docs.google.com/presentation/d/1T2KTEdk1h18oxic728BqI4UvW6P0OZyvP7VUZKXsM8E/edit?usp=sharing)
 - [Lecture 6 (Charlie Murtaugh, July 8, 2019): Data Wrangling with "tidyverse"]()
 - [Lecture 7 (Aaron Quinlan, July 22, 2019): RMarkDown and Intro to Probability]()
 
