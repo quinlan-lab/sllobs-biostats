@@ -26,6 +26,7 @@ Module 1
     - [code](code/package-functions-vectorization.R)
 - Lecture 5 (Tom Sasani, July 1, 2019): Intro to data visualization and ggplot2
     - [slides](https://docs.google.com/presentation/d/1T2KTEdk1h18oxic728BqI4UvW6P0OZyvP7VUZKXsM8E/edit?usp=sharing)
+    - [video](https://youtu.be/4G4mvSWvwWo)
 - [Lecture 6 (Charlie Murtaugh, July 8, 2019): Data Wrangling with "tidyverse"]()
 - [Lecture 7 (Aaron Quinlan, July 22, 2019): RMarkDown and Intro to Probability]()
 
