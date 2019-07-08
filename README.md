@@ -27,7 +27,10 @@ Module 1
 - Lecture 5 (Tom Sasani, July 1, 2019): Intro to data visualization and ggplot2
     - [slides](https://docs.google.com/presentation/d/1T2KTEdk1h18oxic728BqI4UvW6P0OZyvP7VUZKXsM8E/edit?usp=sharing)
     - [video](https://youtu.be/4G4mvSWvwWo)
-- [Lecture 6 (Charlie Murtaugh, July 8, 2019): Data Wrangling with "tidyverse"]()
+- Lecture 6 (Charlie Murtaugh, July 8, 2019): Data Wrangling with "tidyverse"
+    - [slides](https://github.com/quinlan-lab/sllobs-biostats/blob/master/slides/Murtaugh%20SLLOBS%20Tidyverse%20lecture.pptx?raw=true)
+    - [data](https://raw.githubusercontent.com/quinlan-lab/sllobs-biostats/master/data/lecture-06/Incucyte_all.txt)
+    - [code](https://raw.githubusercontent.com/quinlan-lab/sllobs-biostats/master/code/Murtaugh_SLLOBS_Tidyverse_2019.R)
 - [Lecture 7 (Aaron Quinlan, July 22, 2019): RMarkDown and Intro to Probability]()
 
 Slack Group
