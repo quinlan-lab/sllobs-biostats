@@ -10,8 +10,8 @@ HSEB 1730, 9AM on Mondays, Dates Below
 
 Lectures/Slides
 ===============
-Module 1
---------
+Module 1 - Intro to R
+---------------------
 - Lecture 1 (Aaron Quinlan, May 20, 2019): Intro to Data Analysis in RStudio
     - [slides](https://docs.google.com/presentation/d/1KAwoHV03d4eZ6StXmT-ihvZDCzuiXVUaH6C9SOySjhA/edit?usp=sharing)
 - Lecture 2 (Aaron Quinlan, June 3, 2019): Data frames and Importing Data
@@ -31,7 +31,10 @@ Module 1
     - [slides](https://github.com/quinlan-lab/sllobs-biostats/blob/master/slides/Murtaugh%20SLLOBS%20Tidyverse%20lecture.pptx?raw=true)
     - [data](https://raw.githubusercontent.com/quinlan-lab/sllobs-biostats/master/data/lecture-06/Incucyte_all.txt)
     - [code](https://raw.githubusercontent.com/quinlan-lab/sllobs-biostats/master/code/Murtaugh_SLLOBS_Tidyverse_2019.R)
-- [Lecture 7 (Aaron Quinlan, July 22, 2019): RMarkDown and Intro to Probability]()
+
+Module 2: Intro to Probability and Inference
+--------------------------------------------
+- [Lecture 7 (Aaron Quinlan, July 22, 2019): Intro to Probability]()
 
 Slack Group
 =============
