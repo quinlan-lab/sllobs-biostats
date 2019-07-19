@@ -1,7 +1,6 @@
 # sllobs-biostats
 
-![img](https://i0.wp.com/nextgenseek.com/wp-content/uploads/2014/02/Genes-Reflect-Geography.jpg)
-Novembre et al, 2008
+![sllobs logo](/img/sllobs-logo.png)
 
 Location
 ===============
