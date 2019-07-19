@@ -38,7 +38,7 @@ Module 2: Intro to Probability and Inference
 
 Slack Group
 =============
-Join the SLLOBS slack group [here](https://join.slack.com/t/saltlakelearn-7qx8407/shared_invite/enQtNjM0NTE3NDU1MDI1LWY1NzE0YWMxYWQ0Nzg0NmY1ZTk2OTgxY2ZkYzY0YzFlMGY0ZDg4Yjk0NGVhYzhjZmY3MmU0ZGRlNjc3OGZhMTI): 
+Join the SLLOBS slack group [here](https://join.slack.com/t/saltlakelearn-7qx8407/shared_invite/enQtNzAwMjA3NjIwNjg4LTFkMWQ2NTUzZWJlMDcyOTM3ZmEwNzllYTdiZDc1NTU1ZGI3MDc2NTA2MWRkZmY0MjYxODAyMGRiMjQxNmRjZTM): 
 
 Overview
 ========
