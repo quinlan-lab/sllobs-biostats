@@ -34,7 +34,8 @@ Module 1 - Intro to R
 Module 2: Intro to Probability and Inference
 --------------------------------------------
 - Lecture 8 (Aaron Quinlan, July 22, 2019): Intro to Probability
-    - [slides](https://docs.google.com/presentation/d/1JFZGfA-lx44XuEPGIM0i-VCsQYya7O8utZS51ioVI-M/edit?usp=sharing)
+    - [slides](https://docs.google.com/presentation/d/1JFZGfA-lx44XuEPGIM0i-VCsQYya7O8utZS51ioVI-M/edit?usp=sharing)\
+    - [video](https://youtu.be/issTuZPbBMw)
 - Lecture 9 (Alan Rogers, August 5, 2019): Combinations and Permutations, Law of Independence, Multiplication Rule
     - [slides]()
 - Lecture 10 (Alan Rogers, August 19, 2019): Conditional Probability and Bayes Rule
