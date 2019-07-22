@@ -20,20 +20,29 @@ Module 1 - Intro to R
     - Inspired in part by: https://4va.github.io/biodatasci/r-rnaseq-airway.html
     - [slides](https://docs.google.com/presentation/d/1-AMIHxuEuU1JJ_RkActGi5F8bv_R9EWBWWas2eh6AuY/edit?usp=sharing)
     - [video](https://www.youtube.com/watch?v=qdzEEPhlR6A)
-- Lecture 4 (Javier Hernandez, June 17, 2019): R Packages, Data Types, Functions
+- Lecture 4,5 (Javier Hernandez, June 17, 2019): R Packages, Data Types, Functions
     - [slides](https://docs.google.com/presentation/d/1Kc3BtOUgxcRLvhzFXh2H5qp5sDGhP9x-AHgAe01pkvg/edit?usp=sharing)
     - [code](code/package-functions-vectorization.R)
-- Lecture 5 (Tom Sasani, July 1, 2019): Intro to data visualization and ggplot2
+- Lecture 6 (Tom Sasani, July 1, 2019): Intro to data visualization and ggplot2
     - [slides](https://docs.google.com/presentation/d/1T2KTEdk1h18oxic728BqI4UvW6P0OZyvP7VUZKXsM8E/edit?usp=sharing)
     - [video](https://youtu.be/4G4mvSWvwWo)
-- Lecture 6 (Charlie Murtaugh, July 8, 2019): Data Wrangling with "tidyverse"
+- Lecture 7 (Charlie Murtaugh, July 8, 2019): Data Wrangling with "tidyverse"
     - [slides](https://github.com/quinlan-lab/sllobs-biostats/blob/master/slides/Murtaugh%20SLLOBS%20Tidyverse%20lecture.pptx?raw=true)
     - [data](https://raw.githubusercontent.com/quinlan-lab/sllobs-biostats/master/data/lecture-06/Incucyte_all.txt)
     - [code](https://raw.githubusercontent.com/quinlan-lab/sllobs-biostats/master/code/Murtaugh_SLLOBS_Tidyverse_2019.R)
 
 Module 2: Intro to Probability and Inference
 --------------------------------------------
-- [Lecture 7 (Aaron Quinlan, July 22, 2019): Intro to Probability]()
+- Lecture 8 (Aaron Quinlan, July 22, 2019): Intro to Probability
+    - [slides](https://docs.google.com/presentation/d/1JFZGfA-lx44XuEPGIM0i-VCsQYya7O8utZS51ioVI-M/edit?usp=sharing)
+- Lecture 9 (Alan Rogers, August 5, 2019): Combinations and Permutations, Law of Independence, Multiplication Rule
+    - [slides]()
+- Lecture 10 (Alan Rogers, August 19, 2019): Conditional Probability and Bayes Rule
+    - [slides]()
+- Lecture 11 (Aaron Quinlan, September, 9): More on discrete random variables for counting applications; expectation, standard error, variance, standard deviation
+    - [slides]()
+
+
 
 Slack Group
 =============
