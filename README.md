@@ -38,7 +38,7 @@ Module 2: Intro to Probability and Inference
     - [video](https://youtu.be/issTuZPbBMw)
 - Lecture 9 (Alan Rogers, August 5, 2019): Combinations and Permutations, Law of Independence, Multiplication Rule
     - [slides]()
-- Lecture 10 (Alan Rogers, August 19, 2019): Conditional Probability and Bayes Rule
+- Lecture 10 (Alan Rogers, August 12, 2019): Conditional Probability and Bayes Rule
     - [slides]()
 - Lecture 11 (Aaron Quinlan, September, 9): More on discrete random variables for counting applications; expectation, standard error, variance, standard deviation
     - [slides]()
