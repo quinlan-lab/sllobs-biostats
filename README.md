@@ -39,7 +39,8 @@ Module 2: Intro to Probability and Inference
 - Lecture 9 (Alan Rogers, August 5, 2019): Sum rule, Product rule, Conditional probability and Bayes rule.
     - [slides](slides/rogers-prob-sum-product-bayes.pdf)
 - Lecture 10 (Alan Rogers, August 12, 2019): Conditional Probability and Bayes Rule
-    - [slides]()
+    - [slides](slides/rogers-bayes-variance-distributions-expectation.pdf)
+    - [video](https://youtu.be/UcdvK1A3Ank)
 - Lecture 11 (Aaron Quinlan, September, 9): More on discrete random variables for counting applications; expectation, standard error, variance, standard deviation
     - [slides]()
 
