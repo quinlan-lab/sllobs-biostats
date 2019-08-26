@@ -1,7 +1,6 @@
 # sllobs-biostats
 
-![img](https://i0.wp.com/nextgenseek.com/wp-content/uploads/2014/02/Genes-Reflect-Geography.jpg)
-Novembre et al, 2008
+![sllobs logo](/img/sllobs-logo.png)
 
 Location
 ===============
@@ -10,8 +9,8 @@ HSEB 1730, 9AM on Mondays, Dates Below
 
 Lectures/Slides
 ===============
-Module 1
---------
+Module 1 - Intro to R
+---------------------
 - Lecture 1 (Aaron Quinlan, May 20, 2019): Intro to Data Analysis in RStudio
     - [slides](https://docs.google.com/presentation/d/1KAwoHV03d4eZ6StXmT-ihvZDCzuiXVUaH6C9SOySjhA/edit?usp=sharing)
 - Lecture 2 (Aaron Quinlan, June 3, 2019): Data frames and Importing Data
@@ -21,14 +20,35 @@ Module 1
     - Inspired in part by: https://4va.github.io/biodatasci/r-rnaseq-airway.html
     - [slides](https://docs.google.com/presentation/d/1-AMIHxuEuU1JJ_RkActGi5F8bv_R9EWBWWas2eh6AuY/edit?usp=sharing)
     - [video](https://www.youtube.com/watch?v=qdzEEPhlR6A)
-- [Lecture 4 (Javier Hernandez, June 17, 2019): R Packages, Data Types, Functions]()
-- [Lecture 5 (Tom Sasani, July 1, 2019): Plotting in R: types of plots and their purpose]()
-- [Lecture 6 (Charlie Murtaugh, July 8, 2019): Data Wrangling with "tidyverse"]()
-- [Lecture 7 (Aaron Quinlan, July 22, 2019): RMarkDown and Intro to Probability]()
+- Lecture 4,5 (Javier Hernandez, June 17, 2019): R Packages, Data Types, Functions
+    - [slides](https://docs.google.com/presentation/d/1Kc3BtOUgxcRLvhzFXh2H5qp5sDGhP9x-AHgAe01pkvg/edit?usp=sharing)
+    - [code](code/package-functions-vectorization.R)
+- Lecture 6 (Tom Sasani, July 1, 2019): Intro to data visualization and ggplot2
+    - [slides](https://docs.google.com/presentation/d/1T2KTEdk1h18oxic728BqI4UvW6P0OZyvP7VUZKXsM8E/edit?usp=sharing)
+    - [video](https://youtu.be/4G4mvSWvwWo)
+- Lecture 7 (Charlie Murtaugh, July 8, 2019): Data Wrangling with "tidyverse"
+    - [slides](https://github.com/quinlan-lab/sllobs-biostats/blob/master/slides/Murtaugh%20SLLOBS%20Tidyverse%20lecture.pptx?raw=true)
+    - [data](https://raw.githubusercontent.com/quinlan-lab/sllobs-biostats/master/data/lecture-06/Incucyte_all.txt)
+    - [code](https://raw.githubusercontent.com/quinlan-lab/sllobs-biostats/master/code/Murtaugh_SLLOBS_Tidyverse_2019.R)
+
+Module 2: Intro to Probability and Inference
+--------------------------------------------
+- Lecture 8 (Aaron Quinlan, July 22, 2019): Intro to Probability
+    - [slides](https://docs.google.com/presentation/d/1JFZGfA-lx44XuEPGIM0i-VCsQYya7O8utZS51ioVI-M/edit?usp=sharing)
+    - [video](https://youtu.be/issTuZPbBMw)
+- Lecture 9 (Alan Rogers, August 5, 2019): Sum rule, Product rule, Conditional probability and Bayes rule.
+    - [slides](slides/rogers-prob-sum-product-bayes.pdf)
+- Lecture 10 (Alan Rogers, August 12, 2019): Conditional Probability and Bayes Rule
+    - [slides](slides/rogers-bayes-variance-distributions-expectation.pdf)
+    - [video](https://youtu.be/UcdvK1A3Ank)
+- Lecture 11 (Aaron Quinlan, August, 26): Poisson random variables for counting applications in biology
+    - [slides](https://docs.google.com/presentation/d/1Ag4MYi2g22-Tn2iZ6uxqMIgkujsVCz5SCtySc_AIoYM/edit#slide=id.p)
+
+
 
 Slack Group
 =============
-Join the SLLOBS slack group [here](https://join.slack.com/t/saltlakelearn-7qx8407/shared_invite/enQtNjM0NTE3NDU1MDI1LWY1NzE0YWMxYWQ0Nzg0NmY1ZTk2OTgxY2ZkYzY0YzFlMGY0ZDg4Yjk0NGVhYzhjZmY3MmU0ZGRlNjc3OGZhMTI): 
+Join the SLLOBS slack group [here](https://join.slack.com/t/saltlakelearn-7qx8407/shared_invite/enQtNzAwMjA3NjIwNjg4LTFkMWQ2NTUzZWJlMDcyOTM3ZmEwNzllYTdiZDc1NTU1ZGI3MDc2NTA2MWRkZmY0MjYxODAyMGRiMjQxNmRjZTM): 
 
 Overview
 ========
@@ -64,6 +84,7 @@ Grab bag of things to discuss in the future
 - Monte Carlo simulations
 - Gibbs sampling
 - MCMC
+- Power statistics
 - MA plots:
     - https://twitter.com/Noncodarnia/status/1124099713291169800
 
@@ -141,7 +162,8 @@ Module 2: Intro to Probability and Inference
     - Estimates
     - Central Limit Theorem
     - Confidence Intervals
-- Lecture 5: Inference (III)
+- Lecture 5: t-tests, p-values, multiple testing, q-values???
+- Lecture 6: Inference (III)
     - Developing Models
     - Intro to Bayesian Inference
     - Bayesian Thinking

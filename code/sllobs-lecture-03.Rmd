@@ -1,0 +1,33 @@
+---
+title: "sllobs-lecture-03"
+author: "Aaron Quinlan"
+date: "6/10/2019"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Establish our working directory
+Use the `setwd()` function to establish our "Desktop" as R's working directory.
+
+```{r}
+# the following setwd() command is for OS X
+setwd("~/Desktop")
+```
+
+## Download raw data file to our Desktop
+Let's begin by downloading the relevant RNA-seq gene counts data for two control conditions and two experimental conditions using R's `download.file()` function. We will rename the file we download to `genecounts.fixed.tsv`
+
+```{r}
+download.file(url="https://raw.githubusercontent.com/quinlan-lab/sllobs-biostats/master/data/lecture-03/airway_scaledcounts.subset.euro.fixed.tsv",
+destfile="genecounts.fixed.tsv")
+
+```
+
+## Import into a data frame
+Now let's load the file we downloaded to our Desktop into a data frame called `gene_counts`. Specify that the file has a header which names each column and that the file uses "," as the decimal separator
+```{r}
+gene_counts <- read.table("genecounts.fixed.tsv", header=TRUE, dec=",")
+```
