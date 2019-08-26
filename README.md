@@ -43,6 +43,7 @@ Module 2: Intro to Probability and Inference
     - [video](https://youtu.be/UcdvK1A3Ank)
 - Lecture 11 (Aaron Quinlan, August, 26): Poisson random variables for counting applications in biology
     - [slides](https://docs.google.com/presentation/d/1Ag4MYi2g22-Tn2iZ6uxqMIgkujsVCz5SCtySc_AIoYM/edit?usp=sharing)
+    - [video](https://youtu.be/jMAO8MvoUjA)
 
 
 
