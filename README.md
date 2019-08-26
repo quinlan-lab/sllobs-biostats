@@ -42,7 +42,7 @@ Module 2: Intro to Probability and Inference
     - [slides](slides/rogers-bayes-variance-distributions-expectation.pdf)
     - [video](https://youtu.be/UcdvK1A3Ank)
 - Lecture 11 (Aaron Quinlan, August, 26): Poisson random variables for counting applications in biology
-    - [slides]()
+    - [slides](https://docs.google.com/presentation/d/1Ag4MYi2g22-Tn2iZ6uxqMIgkujsVCz5SCtySc_AIoYM/edit#slide=id.p)
 
 
 
