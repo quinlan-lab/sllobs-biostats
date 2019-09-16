@@ -44,6 +44,9 @@ Module 2: Intro to Probability and Inference
 - Lecture 11 (Aaron Quinlan, August, 26): Poisson random variables for counting applications in biology
     - [slides](https://docs.google.com/presentation/d/1Ag4MYi2g22-Tn2iZ6uxqMIgkujsVCz5SCtySc_AIoYM/edit?usp=sharing)
     - [video](https://youtu.be/jMAO8MvoUjA)
+- Lecture 12 (Aaron Quinlan, September 16): Gaussian distributions and QQ plots
+    - [slides](https://docs.google.com/presentation/d/1e1cF_fPRtrZvr1Y8N_Kat4o_Ds0QOStIvJDXC2mcy0Q/edit?usp=sharing)
+   
 
 
 
