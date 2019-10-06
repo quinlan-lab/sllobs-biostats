@@ -41,8 +41,13 @@ Module 2: Intro to Probability and Inference
 - Lecture 10 (Alan Rogers, August 12, 2019): Conditional Probability and Bayes Rule
     - [slides](slides/rogers-bayes-variance-distributions-expectation.pdf)
     - [video](https://youtu.be/UcdvK1A3Ank)
-- Lecture 11 (Aaron Quinlan, September, 9): More on discrete random variables for counting applications; expectation, standard error, variance, standard deviation
-    - [slides]()
+- Lecture 11 (Aaron Quinlan, August, 26): Poisson random variables for counting applications in biology
+    - [slides](https://docs.google.com/presentation/d/1Ag4MYi2g22-Tn2iZ6uxqMIgkujsVCz5SCtySc_AIoYM/edit?usp=sharing)
+    - [video](https://youtu.be/jMAO8MvoUjA)
+- Lecture 12 (Aaron Quinlan, September 16): Gaussian distributions and QQ plots
+    - [slides](https://docs.google.com/presentation/d/1e1cF_fPRtrZvr1Y8N_Kat4o_Ds0QOStIvJDXC2mcy0Q/edit?usp=sharing)
+    - [video](https://www.youtube.com/watch?v=Iket_go0Oxk)
+   
 
 
 
@@ -78,7 +83,7 @@ Expectations
 If members follow these expectations, we will have a large corpus of teaching and learning material that will be 
 available to refer back to. Furthermore, ***it will be the basis for a formal course in the future***.
 
-Grab bag of things to discuss in the future
+Grab bag of things to discuss in the future.
 ========
 - survival curves
 - Monte Carlo simulations
