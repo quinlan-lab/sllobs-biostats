@@ -86,6 +86,7 @@ available to refer back to. Furthermore, ***it will be the basis for a formal co
 Grab bag of things to discuss in the future.
 ========
 - survival curves
+- r versus r^2
 - Monte Carlo simulations
 - Gibbs sampling
 - MCMC
