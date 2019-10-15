@@ -48,7 +48,7 @@ Module 2: Intro to Probability and Inference
     - [slides](https://docs.google.com/presentation/d/1e1cF_fPRtrZvr1Y8N_Kat4o_Ds0QOStIvJDXC2mcy0Q/edit?usp=sharing)
     - [video](https://www.youtube.com/watch?v=Iket_go0Oxk)
 - Lecture 13 (Aaron Quinlan, October 14): Central Limit Theorem and Confidence Intervals
-    - [slides](https://drive.google.com/file/d/1xOJ91b6QzuYByBFN82KzZ2UCODIEATKd/view?usp=sharing)
+    - [slides](https://docs.google.com/presentation/d/1Weh4t69BeEe8rCFXEsfwlOdhX-wV7I8ceePvwXbUCsc/edit?usp=sharing)
 
 
 Slack Group
