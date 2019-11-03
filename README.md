@@ -49,7 +49,21 @@ Module 2: Intro to Probability and Inference
     - [video](https://www.youtube.com/watch?v=Iket_go0Oxk)
 - Lecture 13 (Aaron Quinlan, October 14): Central Limit Theorem and Confidence Intervals
     - [slides](https://docs.google.com/presentation/d/1Weh4t69BeEe8rCFXEsfwlOdhX-wV7I8ceePvwXbUCsc/edit?usp=sharing)
+- Lecture 14 (Aaron Quinlan, November 4): The t-statistic, t-distribution, t-tests, and p-values
+    - [slides]()
+    - [video]()
+- Lecture 15 (Aaron Quinlan, November 25): Power calculations and sample size
+    - [slides]()
+    - [video]()
 
+Module 3: Regression
+--------------------------------------------
+- Lecture 16 (Tom Sasani, December 2): Intro to regression, part 1 
+    - [slides]()
+    - [video]()
+- Lecture 17 (Tom Sasani, December 16): Intro to regression, part 2
+    - [slides]()
+    - [video]()
 
 Slack Group
 =============
