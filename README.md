@@ -50,7 +50,7 @@ Module 2: Intro to Probability and Inference
 - Lecture 13 (Aaron Quinlan, October 14): Central Limit Theorem and Confidence Intervals
     - [slides](https://docs.google.com/presentation/d/1Weh4t69BeEe8rCFXEsfwlOdhX-wV7I8ceePvwXbUCsc/edit?usp=sharing)
 - Lecture 14 (Aaron Quinlan, November 4): The t-statistic, t-distribution, t-tests, and p-values
-    - [slides]()
+    - [slides](https://docs.google.com/presentation/d/1X1l4UYxEzarF69W5p8PofQiAEoFNOqDlFBBppIfUc_w/edit?usp=sharing)
     - [video]()
 - Lecture 15 (Aaron Quinlan, November 25): Power calculations and sample size
     - [slides]()
