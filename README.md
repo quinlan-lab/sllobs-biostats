@@ -51,7 +51,7 @@ Module 2: Intro to Probability and Inference
     - [slides](https://docs.google.com/presentation/d/1Weh4t69BeEe8rCFXEsfwlOdhX-wV7I8ceePvwXbUCsc/edit?usp=sharing)
 - Lecture 14 (Aaron Quinlan, November 4): The t-statistic, t-distribution, t-tests, and p-values
     - [slides](https://docs.google.com/presentation/d/1X1l4UYxEzarF69W5p8PofQiAEoFNOqDlFBBppIfUc_w/edit?usp=sharing)
-    - [video](https://youtu.be/8zq_lTKF2EI)
+    - [video](https://youtu.be/golFyEZhVa8)
 - Lecture 15 (Aaron Quinlan, November 25): Power calculations and sample size
     - [slides]()
     - [video]()
