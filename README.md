@@ -59,7 +59,7 @@ Module 2: Intro to Probability and Inference
 Module 3: Regression
 --------------------------------------------
 - Lecture 16 (Tom Sasani, December 2): Intro to regression, part 1 
-    - [slides]()
+    - [slides](https://docs.google.com/presentation/d/1gTLq3FsRxv_kkgXCOiWPrVug2eOeP73gDnsdGnR5obc/edit?usp=sharing)
     - [video]()
 - Lecture 17 (Tom Sasani, December 16): Intro to regression, part 2
     - [slides]()
