@@ -60,7 +60,7 @@ Module 3: Regression
 --------------------------------------------
 - Lecture 16 (Tom Sasani, December 2): Intro to regression, part 1 
     - [slides](https://docs.google.com/presentation/d/1gTLq3FsRxv_kkgXCOiWPrVug2eOeP73gDnsdGnR5obc/edit?usp=sharing)
-    - [video]()
+    - [video](https://www.youtube.com/watch?v=KekLyPeet3k)
 - Lecture 17 (Tom Sasani, December 16): Intro to regression, part 2
     - [slides]()
     - [video]()
