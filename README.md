@@ -63,6 +63,8 @@ Module 3: Regression
     - [video](https://www.youtube.com/watch?v=KekLyPeet3k)
 - Lecture 17 (Tom Sasani, December 16): Intro to regression, part 2
     - [slides](https://docs.google.com/presentation/d/1P2g1P21lUjEHzIa7m__Ie-dnZHmmmotqGZ8z2ME9Tzw/edit?usp=sharing)
+- Lecture 18 (Tom Sasani, February 10): Intro to regression, part 3
+    - [slides](https://docs.google.com/presentation/d/1YH7PUMvG9aT4oojNtZz6oz7Dsnj_di0da34XDgR5dVs/edit?usp=sharing)
 
 Slack Group
 =============
