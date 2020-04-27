@@ -100,12 +100,14 @@ available to refer back to. Furthermore, ***it will be the basis for a formal co
 
 Grab bag of things to discuss in the future.
 ========
+- power analysis
+- chi-squared, contingency tests
+- batch effects
 - survival curves
 - r versus r^2
 - Monte Carlo simulations
 - Gibbs sampling
 - MCMC
-- Power statistics
 - MA plots:
     - https://twitter.com/Noncodarnia/status/1124099713291169800
 
