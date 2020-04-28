@@ -100,6 +100,7 @@ available to refer back to. Furthermore, ***it will be the basis for a formal co
 
 Grab bag of things to discuss in the future.
 ========
+- multiple-testing FDR, Bonferroni, Q-values (Storey)
 - power analysis
 - chi-squared, contingency tests
 - batch effects
