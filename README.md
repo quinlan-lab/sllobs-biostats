@@ -20,20 +20,51 @@ Module 1 - Intro to R
     - Inspired in part by: https://4va.github.io/biodatasci/r-rnaseq-airway.html
     - [slides](https://docs.google.com/presentation/d/1-AMIHxuEuU1JJ_RkActGi5F8bv_R9EWBWWas2eh6AuY/edit?usp=sharing)
     - [video](https://www.youtube.com/watch?v=qdzEEPhlR6A)
-- Lecture 4 (Javier Hernandez, June 17, 2019): R Packages, Data Types, Functions
+- Lecture 4,5 (Javier Hernandez, June 17, 2019): R Packages, Data Types, Functions
     - [slides](https://docs.google.com/presentation/d/1Kc3BtOUgxcRLvhzFXh2H5qp5sDGhP9x-AHgAe01pkvg/edit?usp=sharing)
     - [code](code/package-functions-vectorization.R)
-- Lecture 5 (Tom Sasani, July 1, 2019): Intro to data visualization and ggplot2
+- Lecture 6 (Tom Sasani, July 1, 2019): Intro to data visualization and ggplot2
     - [slides](https://docs.google.com/presentation/d/1T2KTEdk1h18oxic728BqI4UvW6P0OZyvP7VUZKXsM8E/edit?usp=sharing)
     - [video](https://youtu.be/4G4mvSWvwWo)
-- Lecture 6 (Charlie Murtaugh, July 8, 2019): Data Wrangling with "tidyverse"
+- Lecture 7 (Charlie Murtaugh, July 8, 2019): Data Wrangling with "tidyverse"
     - [slides](https://github.com/quinlan-lab/sllobs-biostats/blob/master/slides/Murtaugh%20SLLOBS%20Tidyverse%20lecture.pptx?raw=true)
     - [data](https://raw.githubusercontent.com/quinlan-lab/sllobs-biostats/master/data/lecture-06/Incucyte_all.txt)
     - [code](https://raw.githubusercontent.com/quinlan-lab/sllobs-biostats/master/code/Murtaugh_SLLOBS_Tidyverse_2019.R)
 
 Module 2: Intro to Probability and Inference
 --------------------------------------------
-- [Lecture 7 (Aaron Quinlan, July 22, 2019): Intro to Probability]()
+- Lecture 8 (Aaron Quinlan, July 22, 2019): Intro to Probability
+    - [slides](https://docs.google.com/presentation/d/1JFZGfA-lx44XuEPGIM0i-VCsQYya7O8utZS51ioVI-M/edit?usp=sharing)
+    - [video](https://youtu.be/issTuZPbBMw)
+- Lecture 9 (Alan Rogers, August 5, 2019): Sum rule, Product rule, Conditional probability and Bayes rule.
+    - [slides](slides/rogers-prob-sum-product-bayes.pdf)
+- Lecture 10 (Alan Rogers, August 12, 2019): Conditional Probability and Bayes Rule
+    - [slides](slides/rogers-bayes-variance-distributions-expectation.pdf)
+    - [video](https://youtu.be/UcdvK1A3Ank)
+- Lecture 11 (Aaron Quinlan, August, 26): Poisson random variables for counting applications in biology
+    - [slides](https://docs.google.com/presentation/d/1Ag4MYi2g22-Tn2iZ6uxqMIgkujsVCz5SCtySc_AIoYM/edit?usp=sharing)
+    - [video](https://youtu.be/jMAO8MvoUjA)
+- Lecture 12 (Aaron Quinlan, September 16): Gaussian distributions and QQ plots
+    - [slides](https://docs.google.com/presentation/d/1e1cF_fPRtrZvr1Y8N_Kat4o_Ds0QOStIvJDXC2mcy0Q/edit?usp=sharing)
+    - [video](https://www.youtube.com/watch?v=Iket_go0Oxk)
+- Lecture 13 (Aaron Quinlan, October 14): Central Limit Theorem and Confidence Intervals
+    - [slides](https://docs.google.com/presentation/d/1Weh4t69BeEe8rCFXEsfwlOdhX-wV7I8ceePvwXbUCsc/edit?usp=sharing)
+- Lecture 14 (Aaron Quinlan, November 4): The t-statistic, t-distribution, t-tests, and p-values
+    - [slides](https://docs.google.com/presentation/d/1X1l4UYxEzarF69W5p8PofQiAEoFNOqDlFBBppIfUc_w/edit?usp=sharing)
+    - [video](https://youtu.be/golFyEZhVa8)
+- Lecture 15 (Aaron Quinlan, November 25): Power calculations and sample size
+    - [slides]()
+    - [video]()
+
+Module 3: Regression
+--------------------------------------------
+- Lecture 16 (Tom Sasani, December 2): Intro to regression, part 1 
+    - [slides](https://docs.google.com/presentation/d/1gTLq3FsRxv_kkgXCOiWPrVug2eOeP73gDnsdGnR5obc/edit?usp=sharing)
+    - [video](https://www.youtube.com/watch?v=KekLyPeet3k)
+- Lecture 17 (Tom Sasani, December 16): Intro to regression, part 2
+    - [slides](https://docs.google.com/presentation/d/1P2g1P21lUjEHzIa7m__Ie-dnZHmmmotqGZ8z2ME9Tzw/edit?usp=sharing)
+- Lecture 18 (Tom Sasani, February 10): Intro to regression, part 3
+    - [slides](https://docs.google.com/presentation/d/1YH7PUMvG9aT4oojNtZz6oz7Dsnj_di0da34XDgR5dVs/edit?usp=sharing)
 
 Slack Group
 =============
@@ -67,9 +98,14 @@ Expectations
 If members follow these expectations, we will have a large corpus of teaching and learning material that will be 
 available to refer back to. Furthermore, ***it will be the basis for a formal course in the future***.
 
-Grab bag of things to discuss in the future
+Grab bag of things to discuss in the future.
 ========
+- multiple-testing FDR, Bonferroni, Q-values (Storey)
+- power analysis
+- chi-squared, contingency tests
+- batch effects
 - survival curves
+- r versus r^2
 - Monte Carlo simulations
 - Gibbs sampling
 - MCMC
